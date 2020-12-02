@@ -1,4 +1,4 @@
-# Pose Randomization for Weakly Paired Image Style Translation
+# PRoGAN: Pose Randomization for Weakly Paired Image Style Translation
 
 This is the official repository for PRoGAN. The currently released code is for reviewers of RA-L to reproduce the experimental results on *AEROGROUND DATASET* and *WEAKPAIRED DATASET*.
 
